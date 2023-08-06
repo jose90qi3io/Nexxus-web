@@ -1,0 +1,46 @@
+
+/* NAV */
+
+
+    .Nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        color: rgb(255, 255, 255);
+    }
+    .Nav li{
+       
+        display: inline;
+        list-style: none;
+        margin: auto;
+        margin-right: 20px;
+        padding: 1rem;
+        color: white;
+        
+    }
+    hr{
+        height: 4px;
+        color: blueviolet;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .Nav p{
+        font-size: 1.6rem;
+    }
+    
+    .Nav ul{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        list-style-type: none;
+        padding: 0;
+    }
+    a{
+        text-decoration: none !important;
+        color: white;
+        letter-spacing: 2px;
+        position: relative;
+    
+    }

@@ -1,0 +1,14 @@
+#burger{
+    display: none;
+}
+
+@media only screen and (max-width: 690px){
+
+.menu{
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    }
+}

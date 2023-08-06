@@ -1,0 +1,113 @@
+
+/* ESTILOS CSS -- HOME */
+.img{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/src/Img/1.jpg');
+    background-size: 100%;
+    background-size: cover;
+    height: 40rem;
+    width: 100%;
+    }
+.header p{
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-size: 150%;
+    padding-top: 40px;
+    padding-right: 4rem;
+    padding-left: 4rem;
+
+}
+text{
+    width: 10rem;
+    position: relative;
+    top: 5rem;
+    padding: 30px;
+}
+ body{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+ }
+
+
+.contenido-G{
+  
+   padding-top: 5rem;
+   padding-bottom: 14rem;
+    padding-right: 10rem;
+    padding-left: 10rem;
+
+ }
+
+
+ .card{
+    width: 30rem;
+    display: flex;
+    align-items: center;
+ }
+
+.cards {
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    text-align: start;
+
+}
+.cards2{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    text-align: start;
+
+}
+.cards img{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+.card{
+    max-width: 1140px;
+}
+.cards2 img{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+#Titulo{
+
+    font-size: 30px;
+    padding-bottom: 2rem;
+    text-align: center;
+    color: rgb(116, 26, 161);
+}
+#Titulo2{
+    font-size: 30px;
+   text-align: left !important;
+    color: rgb(116, 26, 161);
+    padding-top: 60px;
+}
+#Texto{
+    font-size: 15px;
+    text-align: justify;
+}
+.encabezados{
+    text-align: center;
+}
+
+.desarollo{
+    display: flex;
+    justify-content: center;
+
+}
+ .Alineacion{
+    width: 80% ;
+    padding: 3rem;
+} 
+.footer{
+    background: url(/src/Img/3.jpg);
+    height: 20rem;
+}
+
+
+  
